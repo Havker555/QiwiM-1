@@ -1,5 +1,6 @@
-# QiwiM
-Manage your Qiwi account
+# QiwiM - Manage your Qiwi account
+
+https://telegra.ph/file/f5cc34dd6bcd75e991612.png
 
 1. Install Python 3.7.4 with Add To Path
 2. Open Terminal and next to directory. cd your_directory
