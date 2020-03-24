@@ -8,4 +8,4 @@ pip3 install -r requirements.
 4. Start the code.
 python qiwim.py
 
-Use )
+Use ) and check my channel in telegram - teleg.run/tg_mysecure
